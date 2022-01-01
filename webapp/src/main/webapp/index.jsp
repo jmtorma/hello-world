@@ -4,6 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
     <h2>Deploy on k8s using Ansible playbook</h2>
+    <h2>Another test </h2>
      
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
